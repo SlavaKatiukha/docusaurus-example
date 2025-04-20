@@ -9,13 +9,13 @@ Zype provides a central library to store all of your content, regardless of the 
 
 To serve as an example page when styling markdown based Docusaurus sites.
 
----
+***
 
 ## Supported File Formats
 
 Listed below is an up-to-date list of file types Zype supports.
 
-*Note - Zype's upload tool can handle files up to 100 GB in size. If your files are larger, get in touch with Zype support for assistance.
+\*Note - Zype's upload tool can handle files up to 100 GB in size. If your files are larger, get in touch with Zype support for assistance.
 
 Video Files
 
@@ -63,7 +63,7 @@ Subtitles & Metadata
 Subtitles
 Upload subtitle files in .VTT format per language.
 
----
+***
 
 ## Uploading to Your Library and Publishing to Your Site
 
@@ -81,7 +81,47 @@ There are several options to add videos to your library. Each of those options i
 Check out our Supported file formats before uploading.
 
 1. Head to the left navigation sidebar. Click the "Import & Upload" section to view the various options to import your video content.
-
 2. On the right side of the page, click "My Web Browser" to upload a local file to the Zype platform.
 
----
+
+
+
+
+
+
+:::::info
+gsdfgsdfg
+
+::::danger
+gsdfgsdf
+
+:::caution
+dfgfsd
+:::
+
+
+::::
+
+
+:::::
+
+
+
+```js
+```
+
+
+
+```js
+```
+
+
+
+```js
+```
+
+
+
+
+
+***
